@@ -11,7 +11,7 @@
 <font size="5"> MSDS 692 - Data Science Practicum I</font>  
 </div>
 <div style="text-align: right">
-<font size="5"> Christy Pearson</font>
+<font size="5"> Instructor: Christy Pearson</font>
 </div>
 
 <br/>
