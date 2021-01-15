@@ -27,6 +27,12 @@ As a student of Regis University, MSc. Data Science program, I was obligated to 
 
 <br/>
 
+PS: You may find my video presentation below
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Go03phXzoNY/0.jpg)](https://youtu.be/Go03phXzoNY)
+
+<br/>
+
 # II. About Exchange Rates and Time Series
 
 In finance, an exchange rate is a measure between two currencies. At this rate one currency is exchanged for another. It is also regarded as the value of one country’s currency in terms of another currency. Exchange rates are determined in the foreign exchange market, which is open to buyers and sellers, and where currency trading is continuous. From this perspective, Exchange Rates are financial time-series, but at the same time a major role player for economic decisions due to its importance and effect on all sorts of economic activities. Thus, exchange rates forecasting has a substantial role in the economic decision making processes. Accurate estimation of the rate has significant influence on successful decisions.
