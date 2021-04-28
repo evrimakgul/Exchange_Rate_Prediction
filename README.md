@@ -22,8 +22,8 @@
 
 As a student of Regis University, MSc. Data Science program, I was obligated to get two practica classes and turn in a project for each of the classes. I am coming from a background of Economics and Finance. For my first practicum class, considering my backgroud as well, I picked a project something that I can contribute from the finance point of view. This way, I am hoping that I can provide some basic information regarding the field besides the other technical information of the data science aspect, as well.
 
-```Summary:
-During the project, I have used GBP/USD time-series for my data. My intention was to come up with a robust machine learning method (more precisely a deep learning (**DL**) architecture) that can predict the GBP/USD exchange rate successfully. When I say successfully, what I mean is a model that is providing better results than literature suggested statistical (econometrical) methods. During this project, I used ARIMA process for the base model, and I used 4 different **DL** architecture for comparison purposes: MLP Univariate, CNN Univariate, MLP Multivariate, CNN Multivariate. To my disappointment, none of the **DL** architectures were good enough to produce better results than ARIMA process.```
+`Summary:
+During the project, I have used GBP/USD time-series for my data. My intention was to come up with a robust machine learning method (more precisely a deep learning (**DL**) architecture) that can predict the GBP/USD exchange rate successfully. When I say successfully, what I mean is a model that is providing better results than literature suggested statistical (econometrical) methods. During this project, I used ARIMA process for the base model, and I used 4 different **DL** architecture for comparison purposes: MLP Univariate, CNN Univariate, MLP Multivariate, CNN Multivariate. To my disappointment, none of the **DL** architectures were good enough to produce better results than ARIMA process.`
 
 <br/>
 
