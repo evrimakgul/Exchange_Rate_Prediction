@@ -30,6 +30,7 @@ During the project, I have used GBP/USD time-series for my data. My intention wa
 PS: You may find my walkthrough / video presentation below
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Go03phXzoNY/0.jpg)](https://youtu.be/Go03phXzoNY)
+https://youtu.be/Go03phXzoNY
 
 <br/>
 
