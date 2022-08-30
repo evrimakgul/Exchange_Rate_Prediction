@@ -120,6 +120,7 @@ As we may observe, now the series is not ever-changing, but of course, it is ful
 Our next step in the ARIMA process is the determination of **AR (Autoregressive)** and **MA (Moving Average)** parts. These two can be determined at the same time with `autocorrelation` and `partial autocorrelation` plots. 
 
 ![](PLOTS/autocorrelation.png)
+
 ![](PLOTS/p_autocorrelation.png)
 
 Both of the plots show that the correlation dies away after the first readings. By looking at these dying autocorrelations *(AR = 1, MA = 1)*, we can tell that an **ARIMA (1,1,1)** process is what we are after. The first, and last 1’s represent AR and MA levels, whereas the middle 1 represents the *difference* level.
