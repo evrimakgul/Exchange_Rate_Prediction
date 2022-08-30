@@ -33,7 +33,7 @@ PS: You may find my walkthrough / video presentation below
 
 https://youtu.be/Go03phXzoNY
 
-<br/>
+<div style="page-break-after: always"></div>
 
 # II. About Exchange Rates and Time Series
 
@@ -45,11 +45,14 @@ In terms of modeling time-series data, the literature suggests some statistical 
 
 As a note, I should add this as well. Machine Learning methodologies offer Recurrent Neural Networks (RNN) and Long-Short Term Memory (LSTM) approaches for sequence-to-sequence data analysis as well. Yet, with the given time constraints, I had to exclude these methods. I am hoping to further analyze them as a continuation study to this project in the near future.
 
+<div style="page-break-after: always"></div>
 
 # III. Problem Statement and Difficulties
 
 I have mentioned this above already, yet it would be a good idea to reiterate some of it and emphasize a few different points. Exchange Rates are very important components of the economy. Not only for macroeconomics, as being one of the major indicators, but it is also very important at the micro level for the constituents of the economic activities such as international traders or even for local farmers due to the fact that it can be a cost factor to their businesses such as oil prices or logistic costs. Empowering correct expectations of the actors of the economy, and forecasting exchange rates play a significant role. As the dictator of monetary policies, central banks are the main employers of these forecasting models. While technology keeps developing, probing and testing for alternative methods and exploring new possibilities is a good exercise for the betterment of the current methods.
 That being said, I have to admit that I had a great deal of hardship to define this problem statement. The main reason for that was the discrepancy between the time constraint, my desires and expectation from this project, and the requirements of the practicum. My understanding is that a business-related project that can contribute to a solution regarding a general real-world problem or a specific problem of a business was what was expected from me. Yet, my desire was to work on an academic or research topic matter rather than what was expected from me. At this point, I made a mistake and started to work on developing models without clarifying my problem statement. I guess it was around the 6th week when I realized my mistake because I was creating models, testing hyperparameters, producing results, etc, however, none of them were material to relate something. With the support of my instructor, I managed to narrow down my focus and eventually came up with the above statement.
+
+<div style="page-break-after: always"></div>
 
 # IV. Milestones of the Project
 
@@ -203,6 +206,8 @@ My last model in this project is for multivariate analysis with CNN architecture
 At this point, I believe an alternative could be feeding the different groups of variables separately, to this CNN architecture, by using functional API. It is a useful tool, especially in such cases where different variables are presented and affect the response in different ways.
 
 ![](PLOTS/CNN_M.png)
+
+<div style="page-break-after: always"></div>
 
 # V. Closing Remarks
 
