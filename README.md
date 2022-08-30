@@ -222,7 +222,7 @@ During this project I have used different packages and liabraries. First of all,
 
 During this study, there was one thing that I was thinking constantly: literature suggests classical econometric models provides better results than machine learning methods. I was thinking that it should not be the fact. Yet my efforts showed me that it is true, at least until I can create a model that is better. I believe there are some reasons behid this. During my test, I believe I have tried around 200-300 different models. Yet none of them were as succesful as the ARIMA model. At this point, I am just eager to read more, learn more and try more. For instance, Keras provides a service called **functional API**. I believe using the APIa nd by grouping the different types of predictor separately, better results can be achieved. Yet, I have to try them some another time.
 
-### 3. Review and Conclusion
+## 3. Review and Conclusion
 
 When we compare the results we can see that the literature findings are correct. The base model for the prediction has the best metric by far. While the result of the base model is 0.00643, the closest result to that one is 0.01295 from the Univariate MLP architecture. Then comes the CNN multivariate prediction process with 0.02076, and MLP multivariate process with 0.02739 thereafter. The CNN univariate process has the worst score with 0.03028.
 
